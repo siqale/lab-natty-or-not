@@ -6,7 +6,7 @@ Este projeto é uma narrativa ficcional sobre a existência do Papai Noel. O tex
 e tem um tom misterioso e humorístico. O objetivo do projeto é explorar a dúvida sobre a existência do Papai Noel e deixar o leitor em
 dúvida sobre o que é real e o que é fantasia.
 
-![Image of Papai Noel](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Santa_Claus_by_Carl_Moller.jpg/1200px-Santa_Claus_by_Carl_Moller.jpg)
+![Image of Papai Noel](https://image.tensorartassets.com/cdn-cgi/image/w=1920,f=jpeg/posts/images/649416982621323446/e72e27be-24fd-415c-a6ec-3876c86e2f5d.jpg)
 
 ##  Tecnologias Utilizadas
 
@@ -44,7 +44,7 @@ Não me obriguei a criar algo com IA que se parecesse tanto com o real, dá pra 
 Ao contrário, me preocupei em mostrar se a IA é capaz de ser criativa e lidar com um assunto de uma forma inusitada e bem humorada, 
 aliando a isso um pouco de mistério e curiosidade. Você acha que ela é capaz disso? Natural ou Fake Natty?
 
-![Image of Pensador](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Pensador_de_Rodin.jpg/1200px-Pensador_de_Rodin.jpg)
+![Image of Pensador](https://img.freepik.com/fotos-premium/conceito-de-homem-pensador-de-perto_250469-13491.jpg?w=1060)
 
 
 ## Links Interessantes
