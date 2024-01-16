@@ -1,5 +1,5 @@
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+
 ### O mistério da existência de uma lenda
 
 ##  Descrição
